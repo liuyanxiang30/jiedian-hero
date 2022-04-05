@@ -38,10 +38,10 @@
 
 | Name              | Description                                |
 | ----------------- | ------------------------------------------ |
-| APP_NAME          | 就是你 heroku 项目的名字                   |
-| EMAIL             | heroku 账户的 email                      |
-| HEROKU_API_KEY    | heroku API key，在 account 设置下可以找到 |
-| HEROKU_V2RAY_UUID | V2rayUUID                                |
+| APP_NAME          | jiedian-hero                  |
+| EMAIL             | lyx131415@gmail.com                     |
+| HEROKU_API_KEY    | 4a88a1dc-a8ce-4d11-9da7-4e6144ae12a7 |
+| HEROKU_V2RAY_UUID | 5240eeea-2b9e-4f93-8b51-97b3fa80aa55                               |
 | HEROKU_TUNNEL_TOKEN | **可选** cloudflare tunnel 的 token    |
 
 HEROKU_TUNNEL_TOKEN 是可选项，可以忽略. 详细说明，请查看章节 《建立-cloudflare-tunnel-（可选）》
